@@ -1,18 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
-**sheipadodemais/sheipadodemais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AQUI ESTÃO ALGUMAS INFORMAÇÕES SOBRE MIM:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![judo-throw](https://github.com/sheipadodemais/sheipadodemais/assets/169677169/821ce1d3-8863-4
+- 🔭 Atualmente estou trabalhando em ... CONFEITARIA
+- 🌱 Atualmente estou aprendendo... TÉCNICAS DE PERSUASÃO
+- 👯 Procuro colaborar em ... COISAS PARA O REINO DE DEUS
+- 🤔 Estou procurando ajuda com ... COMO FAZER E VENDER MEUS E-BOOKS
+- 💬 Pergunte-me sobre ... QUALQUER COISA
+- 📫 Como entrar em contato comigo: ... INSTAGRAM: DAVIMAROMBA16
+- 😄 Pronomes: ... ELE
+- ⚡ Curiosidade: ... PRÁTICO ARTES MARCIAS, SOU CONFEITEIRO E PRÁTICO MUSCULAÇÃO.
+![judô-lançamento](https://github.com/sheipadodemais/sheipadodemais/assets/169677169/821ce1d3-8863-4
 5b6-89ef-907c45e54f10)
 -->
