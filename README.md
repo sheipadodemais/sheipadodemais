@@ -11,6 +11,5 @@ AQUI ESTÃO ALGUMAS INFORMAÇÕES SOBRE MIM:
 - 📫 Como entrar em contato comigo: ... INSTAGRAM: DAVIMAROMBA16
 - 😄 Pronomes: ... ELE
 - ⚡ Curiosidade: ... PRÁTICO ARTES MARCIAS, SOU CONFEITEIRO E PRÁTICO MUSCULAÇÃO.
-![judô-lançamento](https://github.com/sheipadodemais/sheipadodemais/assets/169677169/821ce1d3-8863-4
-5b6-89ef-907c45e54f10)
+![giphy-downsized](https://github.com/sheipadodemais/sheipadodemais/assets/169677169/defde953-1e40-4ea7-b467-79f333f4c8c2)
 -->
